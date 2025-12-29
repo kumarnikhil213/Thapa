@@ -1,5 +1,5 @@
 import Layout from "../Components/Layout/Layout";
-import areoplane from "./Assets/areoplane.jpg";
+import areoplane from "./assets/areoplane.jpg";
 
 
 import areoplane2 from "../Assets/areoplane2.jpg";
