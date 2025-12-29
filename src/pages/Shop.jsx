@@ -1,5 +1,5 @@
 import Layout from "../Components/Layout/Layout";
-import areoplaneshop from "./assets/areoplaneshop.jpeg";
+import areoplaneshop from "../assets/areoplaneshop.jpeg";
 import { Box, Typography, Tabs, Tab, Button } from "@mui/material";
 import { useState } from "react";
 

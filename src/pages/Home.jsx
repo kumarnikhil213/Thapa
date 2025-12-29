@@ -5,7 +5,7 @@ import areoplane3 from "../assets/areoplane3.jpg";
 import { Box, Typography, Grid } from "@mui/material";
 import { useEffect, useState, useRef } from "react";
 import ProductsSlider from "../pages/ProductSlider";
-
+import SS from "../assets/SS.png";
 
 const Home = () => {
   const images = [areoplane, areoplane2, areoplane3];
