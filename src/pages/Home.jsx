@@ -1,9 +1,7 @@
 import Layout from "../Components/Layout/Layout";
 import areoplane from "../assets/areoplane.jpg";
-
-
-import areoplane2 from "../Assets/areoplane2.jpg";
-import areoplane3 from "../Assets/areoplane3.jpg";
+import areoplane2 from "../assets/areoplane2.jpg";
+import areoplane3 from "../assets/areoplane3.jpg";
 import { Box, Typography, Grid } from "@mui/material";
 import { useEffect, useState, useRef } from "react";
 import ProductsSlider from "../pages/ProductSlider";
