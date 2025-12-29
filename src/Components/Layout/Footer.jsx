@@ -1,6 +1,6 @@
 import { Box, Typography, Grid, IconButton } from "@mui/material";
 import { Facebook, Instagram, YouTube, Twitter } from "@mui/icons-material";
-import aeroplanefooter from "../../Assets/aeroplanefooter.jpg";
+import aeroplanefooter from "../../assets/aeroplanefooter.jpg";
 
 const Footer = () => {
   return (
