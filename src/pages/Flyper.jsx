@@ -1,6 +1,6 @@
 import Layout from "../Components/Layout/Layout";
 import areoplaneshop from "../assets/areoplaneshop.jpeg";
-import sewing from "../Assets/sewing.jpg";
+import sewing from "../assets/sewing.jpg";
 import spin from "../assets/spin.png";
 import { useState } from "react";
 import { Box, Typography, Grid, Stack, TextField, Button } from "@mui/material";
