@@ -1,5 +1,5 @@
 import Layout from "../Components/Layout/Layout";
-import areoplaneshop from "../Assets/areoplaneshop.jpeg";
+import areoplaneshop from "../assets/areoplaneshop.jpeg";
 import sewing from "../Assets/sewing.jpg";
 import spin from "../assets/spin.png";
 import { useState } from "react";
